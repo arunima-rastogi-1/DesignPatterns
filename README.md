@@ -2,7 +2,7 @@
 
 A Java-based Selenium project that extracts, generates, and ranks XPath and CSS selectors for web elements — aiming to replicate the core concept behind [Helenium](https://helenium.io/): smart, self-healing locators.
 
----   
+---    
 
 ## 🚀 Features
 
