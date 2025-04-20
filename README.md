@@ -15,7 +15,7 @@ A Java-based Selenium project that extracts, generates, and ranks XPath and CSS 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - Java 17+
 - Selenium WebDriver
