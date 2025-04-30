@@ -1,24 +1,26 @@
 # 🔍 Smart Locator Engine (Inspired by Helenium)
 
-A Java-based Selenium project that extracts, generates, and ranks XPath and CSS selectors for web elements — aiming to replicate the core concept behind [Helenium](https://helenium.io/): smart, self-healing locators.
-
----      
-   
-## 🚀 Features
-
-- ✅ **Extract All Visible XPaths** on a webpage
-- ✅ **Generate CSS Selectors** from element attributes
-- ✅ **Create Attribute-Based XPath Expressions**
-- ✅ **Auto-detect Preferred Locators** (`id` > `class` > other attributes)
-- ✅ **Write Output to File** for further analysis
-- 🧠 *Coming Soon*: Locator scoring, healing logic, and ML integration
+A **Java-based Selenium utility** designed to intelligently extract, generate, and rank XPath and CSS selectors for web elements — inspired by [Helenium](https://helenium.io/) and its concept of **smart, self-healing locators**.
 
 ---
 
-## 🛠️ Tech Stack 
+## 🚀 Features
 
-- Java 17+
-- Selenium WebDriver
-- ChromeDriver (via WebDriverManager)
-- JavaScriptExecutor
-- Maven (recommended)
+- ✅ **Extract All Visible XPaths** from a webpage  
+- ✅ **Generate CSS Selectors** using element attributes  
+- ✅ **Construct Attribute-Based XPath Expressions**  
+- ✅ **Auto-Detect Optimal Locators** (`id` > `class` > other attributes)  
+- ✅ **Export Results to File** for analysis or testing  
+- 🧠 *Coming Soon*: Locator scoring, healing logic, and ML-based selector optimization  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Java 17+**  
+- **Selenium WebDriver**  
+- **ChromeDriver** (managed via WebDriverManager)  
+- **JavaScriptExecutor**  
+- **Maven** (for build and dependency management)  
+
+---
